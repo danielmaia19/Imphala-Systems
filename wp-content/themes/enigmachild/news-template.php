@@ -6,7 +6,7 @@ get_template_part('breadcrums');
 
 <div class="container">
 	<div class="row enigma_blog_wrapper">
-	<div class="col-md-8 nav-title">
+	<div class="col-md-12 nav-title">
 	<div id="blog">
 <?php if(have_posts()) : ?>
      <?php while(have_posts()) : the_post(); ?>
@@ -31,7 +31,7 @@ get_template_part('breadcrums');
                               <strong><?php echo $date; ?></strong><ol start = "<?php echo $nextpost; ?>">
                               <?php $current_date=$date;
                          endif; ?>
-                         <li><?php the_title(); ?> &bull; <a href = "<?php the_permalink(); ?>">click here</a></li>
+                         <li><?php the_title(); ?> &bull; <a href = "<?php the_permalink(); ?>"><b>click here</b></a></li>
                     <?php endforeach; wp_reset_postdata(); ?>
                     </ol>
               </div>
@@ -41,7 +41,7 @@ get_template_part('breadcrums');
 </div>
 	<?php get_template_part('post','page'); ?>	
 	</div>		
-	<?php get_sidebar(); ?>	
+	<?php //get_sidebar(); ?>	
 	</div>
 </div>	
 

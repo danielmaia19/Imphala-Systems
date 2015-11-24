@@ -9,8 +9,9 @@
  * @version     2.0.0
  */
 
+
 get_header();
-get_template_part('breadcrums'); 
+get_template_part('shop-title'); 
 ?>
 
 <div class="container">

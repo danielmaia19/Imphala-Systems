@@ -44,7 +44,9 @@
 				<ul class="head-contact-info">
 						<?php if($wl_theme_options['email_id'] !='') { ?><li><i class="fa fa-envelope"></i><a href="mailto:<?php echo $wl_theme_options['email_id']; ?>"><?php echo esc_attr($wl_theme_options['email_id']); ?></a></li><?php } ?>
 						<?php if($wl_theme_options['phone_no'] !='') { ?><li><i class="fa fa-phone"></i><a href="tel:<?php echo $wl_theme_options['phone_no']; ?>"><?php echo esc_attr($wl_theme_options['phone_no']); ?></a></li><?php } ?>
-						<!-- <li><i class="fa fa-shopping-cart"></i></i><a href="<?php  ?>"><?php echo esc_attr($wl_theme_options['phone_no']); ?></a></li> -->
+						<a href="<?php  echo get_page_link(10); ?>"><li><i class="fa fa-user"></i></i></li></a>
+						<a href="<?php  echo get_page_link(8); ?>"><li><i class="fa fa-shopping-cart"></i></i></li></a>
+
 				</ul>
 				<?php } ?>
 					<ul class="social">
@@ -61,6 +63,7 @@
 	                <?php } if($wl_theme_options['instagram']!='') { ?>
 					
 	                <?php } ?>
+
 					</ul>	
 				</div>
 				<?php } ?>
