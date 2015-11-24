@@ -1,0 +1,189 @@
+/*
+Theme Name: Enigma Child
+Description: Child theme for the Enigma theme
+Author: Dan Maia
+Template: enigma
+Version: 1.0
+*/
+
+@import "../enigma/style.css";
+
+.navbar-default {
+    background-color: transparent;
+    border: 0 none;
+}
+.header_section {
+    background-color: #000;
+    color: #fff;
+}
+
+.head-contact-info li a {
+    color: #000;
+}
+
+.logo a {
+    color: #000;
+    font-family: "Open Sans",sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.logo p {
+    color: #000;
+    font-family: "Open Sans",sans-serif;
+    margin-top: 5px;
+}
+
+.social li {
+    border: 2px solid #000;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    height: 35px;
+    margin-right: 5px;
+    text-align: center;
+    transition: background 0.5s ease-in-out 0s;
+    width: 35px;
+}
+
+.social i {
+    color: #000;
+    line-height: 30px;
+}
+
+.enigma_footer_area p {
+    color: #000;
+    font-size: 15px;
+}
+
+.enigma_service {
+    padding-bottom: 90px;
+    padding-top: 90px;
+    background-color: #F8F8F8 ;
+}
+
+.carousel {
+    margin-bottom: 0px;
+}
+
+
+.header-sep {
+    background-color: #000;
+    border: 0 none;
+    color: #f5f5f5;
+    height: 4px;
+}
+
+
+.enigma_footer_area {
+    padding: 17px 0 0;
+}
+
+.enigma_service {
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #000;
+    padding-bottom: 90px;
+    padding-top: 90px;
+}
+
+.carousel-list li {
+    color: #fff;
+    font-family: "Open Sans",sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding: 10px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.enigma_post_date span.date {
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.enigma_blog_comment {
+    border-radius: 0px;
+    display: block;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    width: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 0px;
+    color: #999999;
+    background: #f6f6f6;
+    display: none;
+}
+
+.blog-sep.header-sep {
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.services_page {
+    background-color: #fff;
+    border-bottom: 1px solid #000;
+    padding-bottom: 90px;
+    padding-top: 90px;
+}
+.enigma_send_button, #enigma_send_button {
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    padding: 5px 40px;
+    margin-bottom: 0;
+    font-size: 18px;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 2px solid transparent;
+    transition: all 0.4s ease;
+}
+
+.carousel-text .enigma_blog_read_btn {
+    font-size: 25px;
+    color: #fff;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+    padding: 10px 10px 10px 10px;
+    -webkit-transition: all ease 0.8s;
+    -moz-transition: all ease 0.8s;
+    transition: all ease 0.8s;
+    margin-bottom: 20px;
+    box-shadow: 0px !important;
+}
+
+.enigma_form_group {
+    margin-bottom: 10px;
+}
+
+.enigma_con_input_control {
+    display: block;
+    font-size: 13px;
+    line-height: 1.42857;
+    padding: 6px 10px;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.enigma_con_input_control {
+    display: block;
+    font-size: 14px;
+    height: 30px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    vertical-align: middle;
+    width: 100%;
+}

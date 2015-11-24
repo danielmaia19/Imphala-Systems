@@ -1,0 +1,11 @@
+[23-Nov-2015 11:49:52 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/functions.php on line 236
+[23-Nov-2015 11:49:57 UTC] PHP Catchable fatal error:  Object of class WP_Error could not be converted to string in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/functions.php on line 236
+[23-Nov-2015 13:48:12 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 13:48:13 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 13:48:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 13:48:20 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 13:48:27 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 13:48:28 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 13:49:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 13:49:01 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
+[23-Nov-2015 14:38:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/post-content.php on line 65

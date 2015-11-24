@@ -1,0 +1,23 @@
+/*
+Theme Name: Enigma Child
+Description: Child theme for the Enigma theme
+Author: Dan Maia
+Template: enigma
+Version: 1.0
+*/
+
+@import "../enigma/css/enigma-theme.css";
+
+
+.nav-title {
+  margin-left:20px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    border-radius: 0;
+    
+    color: #fff;
+    font-family: "Arimo",Arial,Helvetica,sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}

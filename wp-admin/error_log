@@ -1,0 +1,1 @@
+[23-Nov-2015 13:48:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/options.php on line 38
