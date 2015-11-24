@@ -15,7 +15,7 @@ global $product;
 
 ?>
 <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-this is the price:
+
 	<p class="price"><?php echo $product->get_price_html(); ?></p>
 
 	<meta itemprop="price" content="<?php echo esc_attr( $product->get_price() ); ?>" />
