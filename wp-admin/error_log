@@ -1,1 +1,26 @@
 [23-Nov-2015 13:48:03 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/options.php on line 38
+[24-Nov-2015 13:58:03 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 14:00:04 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 14:01:28 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 14:02:29 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 14:03:29 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 31
+[24-Nov-2015 17:06:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/admin_header_notification.php on line 141
+[24-Nov-2015 17:06:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 706
+[24-Nov-2015 17:07:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/admin_header_notification.php on line 141
+[24-Nov-2015 17:07:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 706
+[24-Nov-2015 17:07:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 866
+[24-Nov-2015 17:07:08 UTC] number_of_existing_backups
+[24-Nov-2015 17:07:08 UTC] 1
+[24-Nov-2015 17:07:08 UTC] number_of_backups_from_user
+[24-Nov-2015 17:07:08 UTC] 
+[24-Nov-2015 17:07:08 UTC] PHP Warning:  ftp_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/Destination/FTP/sendaway.php on line 49
+[24-Nov-2015 17:07:08 UTC] PHP Warning:  ftp_quit() expects parameter 1 to be resource, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/Destination/FTP/sendaway.php on line 82
+[24-Nov-2015 17:07:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/admin_header_notification.php on line 141
+[24-Nov-2015 17:07:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 706
+[24-Nov-2015 17:07:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/admin_header_notification.php on line 141
+[24-Nov-2015 17:07:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 706
+[24-Nov-2015 17:08:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/admin_header_notification.php on line 141
+[24-Nov-2015 17:08:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 706
+[24-Nov-2015 17:08:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/admin_header_notification.php on line 141
+[24-Nov-2015 17:08:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 706
+[24-Nov-2015 17:09:02 UTC] PHP Warning:  uksort() expects parameter 1 to be array, null given in /home1/ybmzcom/public_html/cms/wp-content/plugins/child-theme-configurator/includes/class-ctc-css.php on line 1644

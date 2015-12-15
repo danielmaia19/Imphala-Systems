@@ -304,13 +304,13 @@
 	color:#31A3DD;
 }
 .enigma_sidebar_widget {
-	border-left: 3px solid #000;
-	border-right: 3px solid #000;
-	border-bottom: 3px solid #000;
+	/* border-left: 3px solid #000; */
+	/* border-right: 3px solid #000; */
+	/* border-bottom: 3px solid #000; */
 	background-color:#ffffff;
 }
 .enigma_sidebar_widget_title{
-	background:#000;
+	/*background:#000;*/
 }
 .enigma_sidebar_link p a:hover  , .enigma_sidebar_widget ul li a:hover {
 	color: #000;

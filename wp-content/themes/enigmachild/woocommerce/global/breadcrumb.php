@@ -12,28 +12,41 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-if ( ! empty( $breadcrumb ) ) {
+?>
 
-	echo $wrap_before;
+<div class="enigma_header_breadcrum_product_title ">	
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1><?php if(is_home()){echo "";}else{the_title();} ?></h1>
+				<!-- BreadCrumb -->
+                <?php if ( ! empty( $breadcrumb ) ) {
 
-	foreach ( $breadcrumb as $key => $crumb ) {
+						echo $wrap_before;
 
-		echo $before;
+						foreach ( $breadcrumb as $key => $crumb ) {
 
-		if ( ! empty( $crumb[1] ) && sizeof( $breadcrumb ) !== $key + 1 ) {
-			echo '<a href="' . esc_url( $crumb[1] ) . '">' . esc_html( $crumb[0] ) . '</a>';
-		} else {
-			echo esc_html( $crumb[0] );
-		}
+							echo $before;
 
-		echo $after;
+							if ( ! empty( $crumb[1] ) && sizeof( $breadcrumb ) !== $key + 1 ) {
+								echo '<a href="' . esc_url( $crumb[1] ) . '">' . esc_html( $crumb[0] ) . '</a>';
+							} else {
+								echo esc_html( $crumb[0] );
+							}
 
-		if ( sizeof( $breadcrumb ) !== $key + 1 ) {
-			echo $delimiter;
-		}
+							echo $after;
 
-	}
+							if ( sizeof( $breadcrumb ) !== $key + 1 ) {
+								echo $delimiter;
+							}
 
-	echo $wrap_after;
+						}
 
-}
+						echo $wrap_after;
+
+					} ?>
+                <!-- BreadCrumb -->
+			</div>
+		</div>
+	</div>	
+</div>

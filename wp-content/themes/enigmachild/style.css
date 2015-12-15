@@ -191,3 +191,89 @@ Version: 1.0
 .enigma_blog_wrapper {
     margin-bottom: 100px;
 }
+
+.enigma_header_breadcrum_product_title {
+    margin-bottom: 20px;
+    background: #fff;
+    opacity: 1;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.myaccount_edit_details p{
+    color: red;
+}
+
+.enigma-sidebar ul.sub-menu, .enigma-sidebar ul.children, .enigma_footer_widget_area ul.sub-menu, .enigma_footer_widget_area ul.children {
+    padding-left: 25px;
+}
+
+.enigma_sidebar_widget {
+    margin-bottom: 30px;
+    margin-top: 10px;
+    overflow: hidden;
+    
+    padding: 0px 20px 15px 20px;
+}
+
+.enigma_sidebar_widget_title h2 {
+    margin: 0px;
+    clear: both;
+    font: normal normal 18px Oswald;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: normal;
+    font-size: 22px;
+    color: #000;
+}
+
+
+.enigma_sidebar_widget ul li a:before, .enigma_footer_widget_column ul li a:before {
+    position: absolute;
+    font-family: FontAwesome;
+    top: 0;
+    left: -14px;
+    content: "\f105";
+    padding-top: 5px;
+    display: none;
+}
+
+.enigma_sidebar_link p a, .enigma_sidebar_widget ul li a {
+    color: #6a6a6a;
+    float: right;
+    padding-right: 118px;
+    padding-top: 5px;
+}
+
+.enigma_sidebar_link p a, .enigma_sidebar_widget ul li a {
+    color: #6a6a6a;
+    float: right;
+    padding-right: 118px;
+    padding-top: 5px;
+    display: none;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    font-size: 100%;
+    margin: 0;
+    line-height: 1;
+    cursor: pointer;
+    position: relative;
+    font-family: inherit;
+    text-decoration: none;
+    overflow: visible;
+    padding: .618em 1em;
+    font-weight: 700;
+    border-radius: 3px;
+    left: auto;
+    color: #515151;
+    background-color: #ebe9eb;
+    border: 0;
+    white-space: nowrap;
+    display: inline-block;
+    background-image: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    text-shadow: none;
+    text-align: center;
+}

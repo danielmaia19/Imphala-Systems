@@ -9,3 +9,61 @@
 [23-Nov-2015 13:49:00 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
 [23-Nov-2015 13:49:01 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-hide-category/wp-hide-category.php on line 56
 [23-Nov-2015 14:38:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/post-content.php on line 65
+[23-Nov-2015 20:19:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/woocommerce/archive-product.php on line 19
+[23-Nov-2015 20:19:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/woocommerce/archive-product.php on line 19
+[23-Nov-2015 20:22:01 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/woocommerce/archive-product.php on line 11
+[23-Nov-2015 20:22:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/ybmzcom/public_html/cms/wp-content/themes/enigma/woocommerce/archive-product.php on line 11
+[23-Nov-2015 20:36:10 UTC] PHP Parse error:  syntax error, unexpected 'get_template_part' (T_STRING) in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/archive-product.php on line 13
+[23-Nov-2015 20:36:14 UTC] PHP Parse error:  syntax error, unexpected 'get_template_part' (T_STRING) in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/archive-product.php on line 13
+[23-Nov-2015 20:39:06 UTC] PHP Parse error:  syntax error, unexpected 'get_template_part' (T_STRING) in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/archive-product.php on line 21
+[23-Nov-2015 20:39:48 UTC] PHP Parse error:  syntax error, unexpected 'apply_filters' (T_STRING) in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/archive-product.php on line 13
+[23-Nov-2015 20:39:59 UTC] PHP Parse error:  syntax error, unexpected 'get_template_part' (T_STRING) in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/archive-product.php on line 13
+[23-Nov-2015 20:40:02 UTC] PHP Parse error:  syntax error, unexpected 'get_template_part' (T_STRING) in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/archive-product.php on line 13
+[23-Nov-2015 20:40:16 UTC] PHP Parse error:  syntax error, unexpected 'get_template_part' (T_STRING) in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/archive-product.php on line 13
+[24-Nov-2015 13:57:58 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 13:58:27 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 13:59:52 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 13:59:56 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 14:00:12 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 14:02:20 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 23
+[24-Nov-2015 14:02:31 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 4
+[24-Nov-2015 14:02:42 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 4
+[24-Nov-2015 14:03:27 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 31
+[24-Nov-2015 14:03:32 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 31
+[24-Nov-2015 14:03:43 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 31
+[24-Nov-2015 14:03:45 UTC] PHP Fatal error:  Call to undefined function apply_filter() in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/functions.php on line 31
+[24-Nov-2015 17:10:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 866
+[24-Nov-2015 17:10:50 UTC] number_of_existing_backups
+[24-Nov-2015 17:10:50 UTC] 1
+[24-Nov-2015 17:10:50 UTC] number_of_backups_from_user
+[24-Nov-2015 17:10:50 UTC] 
+[24-Nov-2015 17:10:50 UTC] PHP Warning:  ftp_put(): Can't open that file: No such file or directory in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/Destination/FTP/sendaway.php on line 73
+[25-Nov-2015 16:41:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/ybmzcom/public_html/cms/wp-content/themes/enigmachild/woocommerce/global/breadcrumb.php on line 42
+[26-Nov-2015 05:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 866
+[26-Nov-2015 05:35:45 UTC] number_of_existing_backups
+[26-Nov-2015 05:35:45 UTC] 2
+[26-Nov-2015 05:35:45 UTC] number_of_backups_from_user
+[26-Nov-2015 05:35:45 UTC] 
+[26-Nov-2015 05:35:46 UTC] PHP Warning:  ftp_put(): Can't open that file: No such file or directory in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/Destination/FTP/sendaway.php on line 73
+[26-Nov-2015 17:10:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 868
+[26-Nov-2015 17:10:10 UTC] number_of_existing_backups
+[26-Nov-2015 17:10:10 UTC] 3
+[26-Nov-2015 17:10:10 UTC] number_of_backups_from_user
+[26-Nov-2015 17:10:10 UTC] 
+[26-Nov-2015 17:10:10 UTC] <h2>Send package to FTP site</h2>
+[26-Nov-2015 17:10:10 UTC] Connected to ftp.yb-mz.com.<br />
+[26-Nov-2015 17:10:10 UTC] <div class="error">Logged in as $user<br /></div>
+[26-Nov-2015 17:10:10 UTC] <div class="error">Uploading package to FTP repository...<br /></div>
+[26-Nov-2015 17:10:10 UTC] PHP Warning:  ftp_put(): Can't open that file: No such file or directory in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/Destination/FTP/sendaway.php on line 73
+[26-Nov-2015 17:10:10 UTC] <div class="error">Error: Could not upload file. This will be local backup.<br /></div>
+[27-Nov-2015 20:16:28 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/class-wpdb-admin.php on line 868
+[27-Nov-2015 20:16:28 UTC] number_of_existing_backups
+[27-Nov-2015 20:16:28 UTC] 4
+[27-Nov-2015 20:16:28 UTC] number_of_backups_from_user
+[27-Nov-2015 20:16:28 UTC] 
+[27-Nov-2015 20:16:28 UTC] <h2>Send package to FTP site</h2>
+[27-Nov-2015 20:16:29 UTC] Connected to ftp.yb-mz.com.<br />
+[27-Nov-2015 20:16:30 UTC] <div class="error">Logged in as $user<br /></div>
+[27-Nov-2015 20:16:30 UTC] <div class="error">Uploading package to FTP repository...<br /></div>
+[27-Nov-2015 20:16:30 UTC] PHP Warning:  ftp_put(): Can't open that file: No such file or directory in /home1/ybmzcom/public_html/cms/wp-content/plugins/wp-database-backup/includes/admin/Destination/FTP/sendaway.php on line 73
+[27-Nov-2015 20:16:30 UTC] <div class="error">Error: Could not upload file. This will be local backup.<br /></div>
